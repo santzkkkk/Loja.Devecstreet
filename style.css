@@ -1,0 +1,22 @@
+body{
+
+    background-color: black;
+    color: rgb(26, 255, 0);
+    text-align: center;
+}
+ p{
+    color: aliceblue;
+ }
+h3{
+    color: chartreuse;
+}
+ img{
+    border-color:rgb(14, 139, 0);
+    border-style: groove;
+    border-width: 30px;
+
+ }
+ div img{
+    width: 400px;
+    height: 400px;
+ }
